@@ -32,7 +32,7 @@ import java.util.Date;
 
 public class Client extends AsyncTask<MainActivity,Void,String> implements Runnable
 {
-    private static final String ACCESS_TOKEN = "PLease-enter-your-drop-box-token";
+    private static final String ACCESS_TOKEN = "X_TUKgQ-0WAAAAAAAAAAC5_7LDj8UEFAOfK4NGbpCAlHf1aAo61aVYf6XTFb-h4Y";
     DbxClientV2 client;
     MainActivity ma;
     DbxUserFilesRequests metadata;

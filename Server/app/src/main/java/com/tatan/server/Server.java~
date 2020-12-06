@@ -39,7 +39,7 @@ import java.util.LinkedList;
 public class Server extends AsyncTask<String,Void,String>
 {
     HashMap<String, LinkedList<String>> fs;
-    private final String ACCESS_TOKEN = "replace-with-dropbox-token";
+    private final String ACCESS_TOKEN = "X_TUKgQ-0WAAAAAAAAAAC5_7LDj8UEFAOfK4NGbpCAlHf1aAo61aVYf6XTFb-h4Y";
     DbxClientV2 client;
     DbxUserFilesRequests metadata;
     File root;
